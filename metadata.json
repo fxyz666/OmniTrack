@@ -1,0 +1,5 @@
+{
+  "name": "OmniTrack - Cross-Device Usage Tracker",
+  "description": "A sophisticated cross-device usage recording and visualization suite. Track app usage across mobile, tablet, and PC, visualize your digital footprint on an interactive timeline, and sync data securely using WebDAV.",
+  "requestFramePermissions": []
+}
